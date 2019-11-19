@@ -60,12 +60,22 @@ f.	Se debe validar qué, en el campo correo electrónico, permita ingresar un co
 
 Para ello hacemos la siguiente validación en la función validarEmail():
  
+ 
+ 
 ![image](https://user-images.githubusercontent.com/56567621/69171686-6c028f00-0aca-11ea-964d-7b718183ab22.png)
+
+
+
 
 g. Se debe validar que la contraseña ingresada tenga mínimo 8 caracteres, además, debe incluir al menos: una letra mayúscula, una letra minúscula y un carácter especial (@, _, $)
 para esta validación lo hacemos de la siguiente manera:
  
+ 
+ 
+ 
 ![image](https://user-images.githubusercontent.com/56567621/69171721-7b81d800-0aca-11ea-995d-2d9829ac3ba5.png)
+
+
 
 
 Parte dos: 
@@ -77,17 +87,53 @@ Para esta practica creamos otra carpeta llamada Galeria en donde tenemos los arc
 En el archivo index.html creamos la interfaz y botones que se pide en el enunciado para poder visualizar las imágenes.
  
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/56567621/69171762-8ccae480-0aca-11ea-93ae-f0123574d149.png)
 
+
+
+
+
+
+
 En el archivo función.js hacemos un arreglo para poder obtener 5 imágenes aleatorias de las 10 que debemos tener dentro de la carpeta images.
+
+
+
+
+
+
  ![image](https://user-images.githubusercontent.com/56567621/69171784-994f3d00-0aca-11ea-97ab-7f87b06c7339.png)
 
+
+
+
+
+ 
+
 Por ultimo en el archivo index.css realizamos los estilos que tiene la pagina:
+
+
+
+
+
+
+
+
+
    ![image](https://user-images.githubusercontent.com/56567621/69171810-a66c2c00-0aca-11ea-9737-83953df5f639.png)
    
    
    
+   
+   
    ![image](https://user-images.githubusercontent.com/56567621/69171816-a8ce8600-0aca-11ea-9ee4-3d6248fdad7d.png)
+
+
 
 
 
