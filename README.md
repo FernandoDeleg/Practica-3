@@ -13,10 +13,18 @@ ACTIVIDADES DESARROLLADAS
 A.	Desarrollo de los puntos:
 Como punto inicial tenemos una carpeta en donde tendremos la página principal index.html, además de que tendremos la carpeta formularia en donde encontraremos los archivos para realizar el formulario y sus validaciones conjuntamente.
 
- 
+
+
+
+ ![image](https://user-images.githubusercontent.com/56567621/69172617-2f379780-0acc-11ea-8597-487645eaea29.png)
+
+
+
 
 En el archivo index.html tenemos la creación de los campos cedula, nombres, apellidos, dirección, teléfono, fechaNacimiento, correo, contraseña como se ve en la imagen:
 
+
+ ![image](https://user-images.githubusercontent.com/56567621/69172684-4c6c6600-0acc-11ea-9d9b-addea7d759b4.png)
  
 
 El archivo para hacer las validaciones esta realizado en JavaScript en el cual se realiza todas las siguientes validaciones:
