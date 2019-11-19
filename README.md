@@ -101,6 +101,5 @@ Para la segunda parte se recomienda que se coloquen imágenes del mismo tamaño 
 
 Nombres del estudiante:  Fernando Deleg
 
- 
-Firma del estudiante
+ ![image](https://user-images.githubusercontent.com/56567621/69171973-f1863f00-0aca-11ea-8200-19a6e7f55c04.png)
 
