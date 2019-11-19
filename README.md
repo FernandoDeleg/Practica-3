@@ -1,13 +1,10 @@
 # Practica-3
 
- 	FORMATO DE INFORME DE PRÁCTICA DE LABORATORIO / TALLERES / CENTROS DE SIMULACIÓN – PARA ESTUDIANTES
 
-CARRERA: INGENIERIA DE SISTEMAS/COMPUTACION	ASIGNATURA: HYPERMEDIAL
-NRO. PRÁCTICA:	3	TÍTULO PRÁCTICA: Resolución de problemas sobre JavaScript
-OBJETIVO ALCANZADO:
-• Entender y organizar de una mejor manera los sitios de web en Internet
-• Diseñar adecuadamente elementos gráficos en sitios web en Internet.
-• Crear sitios web aplicando estándares actuales.
+
+![image](https://user-images.githubusercontent.com/56567621/69172911-aff69380-0acc-11ea-8d9b-a477c0ac8a8a.png)
+
+
 
 ACTIVIDADES DESARROLLADAS
 A.	Desarrollo de los puntos:
