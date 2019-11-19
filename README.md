@@ -137,6 +137,7 @@ Por ultimo en el archivo index.css realizamos los estilos que tiene la pagina:
 
 
 
+link: https://github.com/FernandoDeleg/Practica-3
 
 CONCLUSIONES: 
 Para esta práctica podemos realizamos las validaciones que se deben hacer para poder hacer un formulario el cual por el momento solo valida que se ingrese de una forma correcta en la página y si esta todo correcto nos enviara una página que dice “Bienvenido, pasaste las validaciones”.
